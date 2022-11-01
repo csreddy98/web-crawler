@@ -3,7 +3,7 @@
 
 from urllib.parse import urlparse
 from urllib.request import urlopen
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as bs
 import re
 import datetime
 import random
